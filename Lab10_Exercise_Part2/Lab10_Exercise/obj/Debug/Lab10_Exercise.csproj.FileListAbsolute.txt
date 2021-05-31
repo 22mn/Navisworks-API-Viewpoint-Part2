@@ -1,0 +1,12 @@
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab10_Exercise\Lab10_Exercise\bin\Debug\Lab10_Exercise.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab10_Exercise\Lab10_Exercise\bin\Debug\Lab10_Exercise.pdb
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab10_Exercise\Lab10_Exercise\obj\Debug\Lab10_Exercise.csprojAssemblyReference.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab10_Exercise\Lab10_Exercise\obj\Debug\Lab10_Exercise.csproj.CoreCompileInputs.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab10_Exercise\Lab10_Exercise\obj\Debug\Lab10_Exercise.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab10_Exercise\Lab10_Exercise\obj\Debug\Lab10_Exercise.pdb
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab10_Exercise_Part2\Lab10_Exercise\bin\Debug\Lab10_Exercise.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab10_Exercise_Part2\Lab10_Exercise\bin\Debug\Lab10_Exercise.pdb
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab10_Exercise_Part2\Lab10_Exercise\obj\Debug\Lab10_Exercise.csprojAssemblyReference.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab10_Exercise_Part2\Lab10_Exercise\obj\Debug\Lab10_Exercise.csproj.CoreCompileInputs.cache
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab10_Exercise_Part2\Lab10_Exercise\obj\Debug\Lab10_Exercise.dll
+D:\SANDBAG\PROGRAMMING\sharp\Navisworks Tutorial\Exercise\Lab10_Exercise_Part2\Lab10_Exercise\obj\Debug\Lab10_Exercise.pdb
